@@ -50,21 +50,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        17 mins             █████████████████████████   100.00 % 
+C                        8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (14.37%)
+⏱ AI Coding Time: 2 mins (27.58%)
 
-✍️ 44 lines written by AI, 40 lines written by hand (52.38% AI-written)
+✍️ 44 lines written by AI, 36 lines written by hand (55.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -75,12 +75,12 @@ Windows                  17 mins             ███████████�
 Github-Copilot           44 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.38% of written lines came from AI
+⚖️ Balanced with AI — 55.0% of written lines came from AI
 📝 Concise Prompter — average 22 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 47.62% of changed lines were hand-edited
+🚀 High AI Trust — 45.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 03:52:23 UTC
+ Last Updated on 16/09/2026 03:49:22 UTC
 <!--END_SECTION:waka-->
