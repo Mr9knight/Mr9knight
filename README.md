@@ -50,19 +50,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        6 mins              █████████████████████████   100.00 % 
+C                        12 mins             █████████████░░░░░░░░░░░░   53.13 % 
+Other                    11 mins             ████████████░░░░░░░░░░░░░   46.87 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████░░░░░░░░░░░░   53.13 % 
+Antigravity IDE          11 mins             ████████████░░░░░░░░░░░░░   46.87 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (40.43%)
+⏱ AI Coding Time: 20 mins (84.79%)
 
 ✍️ 44 lines written by AI, 36 lines written by hand (55.0% AI-written)
 
@@ -70,17 +72,17 @@ Windows                  6 mins              ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Github-Copilot           44 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 55.0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 79 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 45.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 03:38:55 UTC
+ Last Updated on 20/09/2026 03:54:21 UTC
 <!--END_SECTION:waka-->
