@@ -5,9 +5,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -50,39 +50,38 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        12 mins             █████████████░░░░░░░░░░░░   53.13 % 
-Other                    11 mins             ████████████░░░░░░░░░░░░░   46.87 % 
+HTML                     1 hr 45 mins        ██████████████████░░░░░░░   73.96 % 
+C                        25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████░░░░░░░░░░░░   53.13 % 
-Antigravity IDE          11 mins             ████████████░░░░░░░░░░░░░   46.87 % 
+VS Code                  2 hrs 11 mins       ███████████████████████░░   92.09 % 
+Antigravity IDE          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (84.79%)
+⏱ AI Coding Time: 17 mins (12.56%)
 
-✍️ 44 lines written by AI, 36 lines written by hand (55.0% AI-written)
+✍️ 0 lines written by AI, 22 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
-
-Github-Copilot           44 lines            █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.0% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 107 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 45.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 03:54:21 UTC
+ Last Updated on 21/09/2026 03:51:22 UTC
 <!--END_SECTION:waka-->
