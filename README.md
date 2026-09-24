@@ -5,7 +5,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20mins-blue?style=flat)
 
@@ -50,24 +50,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 36 mins       ████████████████████░░░░░   80.81 % 
-C                        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+HTML                     2 hrs 53 mins       █████████████████████░░░░   82.40 % 
+C                        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         ████████████████████████░   94.17 % 
-Antigravity IDE          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+VS Code                  3 hrs 19 mins       ████████████████████████░   94.65 % 
+Antigravity IDE          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (9.26%)
+⏱ AI Coding Time: 17 mins (8.49%)
 
-✍️ 0 lines written by AI, 26 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -83,5 +83,5 @@ Windows                  3 hrs 13 mins       ███████████�
 ```
 
 
- Last Updated on 23/09/2026 03:46:56 UTC
+ Last Updated on 24/09/2026 03:38:48 UTC
 <!--END_SECTION:waka-->
