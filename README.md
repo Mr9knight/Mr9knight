@@ -50,14 +50,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 53 mins       ███████████████████████░░   90.04 % 
-C                        19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+HTML                     1 hr 8 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -67,5 +66,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/09/2026 04:12:24 UTC
+ Last Updated on 28/09/2026 04:14:05 UTC
 <!--END_SECTION:waka-->
